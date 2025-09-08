@@ -18,7 +18,7 @@ class FizzBuzz {
             // Print our appropriate result.
             doFizzBuzz(divisibleBy3, divisibleBy5, i);
 
-            i+=1;
+            i++;
         }
     }
 
